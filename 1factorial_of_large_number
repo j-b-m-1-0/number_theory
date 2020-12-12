@@ -38,6 +38,6 @@ int main()
        cout<<*it;
      cout<<endl;
   }
-  //Akash singh parihar
+  //Akash singh
   return 0;
  }
